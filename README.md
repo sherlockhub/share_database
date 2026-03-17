@@ -9,7 +9,7 @@ A high-quality dataset for fine-tuning large language models (LLMs) on receipt u
 
 ## 📦 Dataset Download & Extraction
 ### 1. Download Link
-- **Baidu Netdisk**: [https://pan.baidu.com/s/1UergRaHm_yCQ3y9BhBSSVw](https://pan.baidu.com/s/1UergRaHm_yCQ3y9BhBSSVw)
+- **Baidu Netdisk**: https://pan.baidu.com/s/1UergRaHm_yCQ3y9BhBSSVw?pwd=fuah
 - **Extraction Code**: `fuah`
 - **File Name**: `receipt_dataset_v2.zip`
 
@@ -121,3 +121,6 @@ This dataset is released under the **MIT License**. You are free to use, modify,
 For questions or issues related to the dataset, please submit an **Issue** in this GitHub repository or contact the author at 2024080111@stu.sdjzu.edu.cn.
 
 *Last Updated: 2026-03-17*
+通过网盘分享的文件：receipt_dataset_v2.zip
+链接:  提取码: fuah 
+--来自百度网盘超级会员v8的分享
