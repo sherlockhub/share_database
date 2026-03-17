@@ -118,6 +118,6 @@ This dataset is released under the **MIT License**. You are free to use, modify,
 ---
 
 ## 📧 Contact
-For questions or issues related to the dataset, please submit an **Issue** in this GitHub repository or contact the author at [Your Email Address].
+For questions or issues related to the dataset, please submit an **Issue** in this GitHub repository or contact the author at 2024080111@stu.sdjzu.edu.cn.
 
 *Last Updated: 2026-03-17*
