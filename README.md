@@ -1,4 +1,4 @@
-# share_database
+# share_database   receipt_dataset_v2
 A dataset suitable for large model fine-tuning
 
 
